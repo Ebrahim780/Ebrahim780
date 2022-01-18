@@ -2,14 +2,13 @@
 #### I'm Ebrahim Heidary. A Front-end web developer
 
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Music Player
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Javascript, CCS And React
 - 📫 How to reach me: ...
-- 😄 Pronouns: ... 
+- 😄 Pronouns: ...  -->
 
 
 
