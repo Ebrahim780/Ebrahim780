@@ -19,6 +19,4 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ebrahim780" />
 </a>
  -->
- ![Github State](https://github-readme-stats.vercel.app/api?username=Ebrahim780)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=contribs,prs,stars)
+ ![Github State](https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=contribs,prs,stars&count_private=true&show_icon=true)
