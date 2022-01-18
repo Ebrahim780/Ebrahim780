@@ -11,3 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+
+![age](https://img.shields.io/badge/age-19-blue)
+![focus](https://img.shields.io/badge/focus-frontend-cyan)
+![living](https://img.shields.io/badge/living-iran)
+
+<a href="https://github.com/Ebrahim780">
+<img align="center" src="" /></a>
+<a href="https://github.com/mhmda-83">
+<img align="center" src="" />
+</a>
