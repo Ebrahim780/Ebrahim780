@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### I'm Ebrahim Heidary. A Fronend web develper
 
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Music Player
@@ -11,13 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Javascript, CCS And React
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--->
+
 
 ![age](https://img.shields.io/badge/age-19-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-green)
-
-<!-- <a href="https://github.com/Ebrahim780">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ebrahim780" />
-</a>
- -->
- ![Github State](https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=stars&show_icon=true&theme=react)
+![Github State](https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=stars&show_icon=true&theme=react)
