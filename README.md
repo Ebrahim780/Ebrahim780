@@ -1,5 +1,5 @@
-### Hi there 
-## A'm Ebrahim Heidary. I'm Fronend Web Develper
+## Hi there 👋
+#### A'm Ebrahim Heidary. I'm Fronend Web Develper
 
 <!--
 Here are some ideas to get you started:
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ebrahim780" />
 </a>
  -->
- ![Github State](https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=stars&show_icon=true&theme=onedark)
+ ![Github State](https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=stars&show_icon=true&theme=synthwave)
