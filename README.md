@@ -19,4 +19,4 @@
 
 ![Github States](https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=stars&show_icons=true&theme=react)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ebrahim780&repo=Git,SASS&theme=react)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ebrahim780&repo=Git&theme=react)
