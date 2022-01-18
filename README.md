@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### A'm Ebrahim Heidary. I'm Fronend Web Develper
+#### I'm Ebrahim Heidary. A Fronend web develper
 
 <!--
 Here are some ideas to get you started:
