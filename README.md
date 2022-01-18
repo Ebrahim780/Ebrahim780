@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Ebrahim780">
 <img align="center" src="" /></a>
-<a href="https://github.com/mhmda-83">
-<img align="center" src="" />
-</a>
