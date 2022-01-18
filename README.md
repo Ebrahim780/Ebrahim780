@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 
 ![age](https://img.shields.io/badge/age-19-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-green)
-<a href="https://github.com/Ebrahim780">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ebrahim780" /></a>
+
+<!-- <a href="https://github.com/Ebrahim780">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ebrahim780" />
+</a>
+ -->
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebrahim780)]
