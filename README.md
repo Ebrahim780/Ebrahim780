@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-frontend-cyan)
-![living](https://img.shields.io/badge/living-iran)
+![focus](https://img.shields.io/badge/focus-frontend-green)
 
 <a href="https://github.com/Ebrahim780">
 <img align="center" src="" /></a>
