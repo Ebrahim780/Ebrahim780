@@ -19,7 +19,6 @@
 
 <a href="https://github.com/Ebrahim780">
   <img src="https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=stars&show_icons=true&theme=react">
-<!-- ![Github States](https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=stars&show_icons=true&theme=react) -->
 </a>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahim780&theme=react) -->
