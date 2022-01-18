@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 </a>
  -->
  ![Github State](https://github-readme-stats.vercel.app/api?username=Ebrahim780)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=contribs,prs,stars)
