@@ -17,6 +17,6 @@
 ![age](https://img.shields.io/badge/age-19-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-blue)
 
-![Github States](https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=stars&show_icons=true&theme=react&text_color=F7EF8A)
+![Github States](https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=stars&show_icons=true&theme=react)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ebrahim780&repo=Git)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ebrahim780&repo=Git,SASS&theme=react)
