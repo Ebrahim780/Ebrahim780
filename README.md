@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm Ebrahim Heidary. A Front-end web developer
+#### I'm Ebrahim Heidary. A Front-end Developer
 
 
 <!-- Here are some ideas to get you started:
