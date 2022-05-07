@@ -15,7 +15,7 @@
 ![age](https://img.shields.io/badge/age-19-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-blue)
 
-<a href="https://github.com/EbrahimHeidary">
+<a href="https://github.com/EbrahimHeydari">
   <img src="https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=stars&show_icons=true&theme=react">
 </a>
 
