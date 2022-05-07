@@ -16,7 +16,7 @@
 ![focus](https://img.shields.io/badge/focus-frontend-blue)
 
 <a href="https://github.com/EbrahimHeydari">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ebrahim780&hide=stars&show_icons=true&theme=react">
+  <img src="https://github-readme-stats.vercel.app/api?username=EbrahimHeydari&hide=stars&show_icons=true&theme=react">
 </a>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahim780&theme=react) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimHeydari&theme=react) -->
