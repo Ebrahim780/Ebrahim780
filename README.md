@@ -1,14 +1,13 @@
 ## Hi there 👋
-#### I'm Ebrahim Heidary. A Front-end Developer
+#### I'm Ebrahim Heidary. A Front-end Developer 💻
 
 
-<!-- Here are some ideas to get you started:
+Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Music Player
+- 🔭 I’m currently working on my Educations
 - 🌱 I’m currently learning React
-- 💬 Ask me about Javascript, CCS And React
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...  -->
+- 💬 Ask me about CSS, JavaScript And React
+- 📫 How to reach me: akbrly42@gmail.com 
 
 
 
@@ -19,4 +18,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EbrahimHeydari&hide=stars&show_icons=true&theme=react">
 </a>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimHeydari&theme=react) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimHeydari&theme=react)
