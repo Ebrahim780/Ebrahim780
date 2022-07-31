@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Educations
+- 🔭 I’m currently working on Next.js
 - 🌱 I’m currently learning React
 - 💬 Ask me about CSS, JavaScript And React
 - 📫 How to reach me: akbrly42@gmail.com 
