@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React
 - 💬 Ask me about CSS, JavaScript And React
 - 📫 How to reach me: akbrly42@gmail.com 
-- ⚡ Fun fact: Only actions remain
+- ⚡ Fun fact: Only our actions remain
 
 
 ![age](https://img.shields.io/badge/age-19-blue)
