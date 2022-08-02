@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Next.js
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on Next.js blog
+- 🌱 I’m currently learning Next.js
 - 💬 Ask me about CSS, JavaScript And React
 - 📫 How to reach me: akbrly42@gmail.com 
 - ⚡ Fun fact: Only our actions remain
