@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Only our actions remain
 
 
-![age](https://img.shields.io/badge/age-19-blue)
+![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-blue)
 
 <a href="https://github.com/EbrahimHeydari">
