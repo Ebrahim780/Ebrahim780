@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Next.js
 - 💬 Ask me about CSS, JavaScript And React
 - 📫 How to reach me: akbrly42@gmail.com 
-- ⚡ Fun fact: Only our actions remain
+- ⚡ Fun fact: Only our actions will have been remain
 
 
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/15248776/ebrahim)](https://stackoverflow.com/users/15248776/ebrahim)
