@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Only our actions remain
 
 
-![age](https://img.shields.io/badge/age-20-blue)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/15248776/ebrahim)](https://stackoverflow.com/users/15248776/ebrahim)
 ![focus](https://img.shields.io/badge/focus-frontend-blue)
 
 <a href="https://github.com/EbrahimHeydari">
