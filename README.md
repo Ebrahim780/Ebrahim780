@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Only our actions will have been remain
 
 
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/15248776/ebrahim)](https://stackoverflow.com/users/15248776/ebrahim)
-[![Virgool icon](https://virgool.io/images/favicon.png)](https://virgool.io/@EbrahimHeydari)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-cdcdcd?style=flat-square&logo=Stackoverflow&logoColor=Red&link=https://stackoverflow.com/users/15248776/ebrahim)](https://stackoverflow.com/users/15248776/ebrahim)
 
 <!-- ![focus](https://img.shields.io/badge/focus-frontend-blue) -->
 
