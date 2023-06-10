@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 
 
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/15248776/ebrahim)](https://stackoverflow.com/users/15248776/ebrahim)
-![focus](https://img.shields.io/badge/focus-frontend-blue)
+[![Virgool icon](https://virgool.io/images/favicon.png)](https://virgool.io/@EbrahimHeydari)
+
+<!-- ![focus](https://img.shields.io/badge/focus-frontend-blue) -->
 
 <a href="https://github.com/EbrahimHeydari">
   <img src="https://github-readme-stats.vercel.app/api?username=EbrahimHeydari&hide=stars&show_icons=true&theme=react">
