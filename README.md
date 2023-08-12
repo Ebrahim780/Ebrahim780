@@ -6,9 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my blog
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning TypeScript
 - 💬 Ask me about CSS, JavaScript And React
-- 📫 How to reach me: akbrly42@gmail.com 
 - ⚡ Fun fact: Only our actions will have been remain
 
 
@@ -21,15 +20,3 @@ Here are some ideas to get you started:
 </a>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimHeydari&theme=react) -->
-
-### Languages and Tools:
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-<!--[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) -->
-
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
