@@ -19,4 +19,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=EbrahimHeydari&hide=stars&show_icons=true&theme=react">
 </a>
 
+<img src="https://profile-counter.glitch.me/{EbrahimHeydari}/count.svg" title="Visitor Count" />
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimHeydari&theme=react) -->
