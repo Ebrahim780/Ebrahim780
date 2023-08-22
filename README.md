@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my blog
+- 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about CSS, JavaScript And React
 - ⚡ Fun fact: Only our actions will have been remain
