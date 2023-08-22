@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-cdcdcd?style=flat-square&logo=Stackoverflow&logoColor=Red&link=https://stackoverflow.com/users/15248776/ebrahim)](https://stackoverflow.com/users/15248776/ebrahim)
+[![](https://visitcount.itsvg.in/api?id=EbrahimHeydari&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- ![focus](https://img.shields.io/badge/focus-frontend-blue) -->
 
@@ -19,6 +20,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=EbrahimHeydari&hide=stars&show_icons=true&theme=react">
 </a>
 
-<img src="https://profile-counter.glitch.me/{EbrahimHeydari}/count.svg" title="Visitor Count" />
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimHeydari&theme=react) -->
